@@ -5,7 +5,7 @@
 ##
 <div>
   <a href="https://beacons.ai/daviniccacio">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=daviniccacio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviniccacio"/>
     <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviniccacio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
