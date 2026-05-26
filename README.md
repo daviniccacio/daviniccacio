@@ -1,6 +1,6 @@
 ## Opa! Davi Nicacio aqui. 👋
 
-- 🧑‍💻 Dev. Front-End / Full-Stack
+- 🧑‍💻 Dev. Front-End 
 - 📖 Estudando JavaScript e Ecossistema Web
 
 ---
